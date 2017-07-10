@@ -1,0 +1,8 @@
+- Department of Commerce:
+  - Domain Name: EXPORT.GOV
+    Internal Redirect: https://www.export.gov/welcome
+  - Domain Name: SELECTUSA.GOV
+    Internal Redirect: https://www.selectusa.gov/welcome
+- General Services Administration:
+  - Domain Name: REALESTATESALES.GOV
+    Internal Redirect: https://realestatesales.gov/gsaauctions/gsaauctions/
