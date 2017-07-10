@@ -1,0 +1,6 @@
+EXPORT.GOV
+  redirect: https://www.export.gov/welcome
+SELECTUSA.GOV
+  redirect: https://www.selectusa.gov/welcome
+REALESTATESALES.GOV
+   redirect: https://realestatesales.gov/gsaauctions/gsaauctions/
