@@ -2,3 +2,11 @@ SELECTUSA.GOV
   redirect: https://www.selectusa.gov/welcome
 FLIGHTSCHOOLCANDIDATES.GOV
   redirect: https://www.flightschoolcandidates.gov/afsp2/?acct_type=c&section=WN
+NATIONALHOUSING.GOV
+  redirect: https://portal.hud.gov/hudportal/HUD
+ONHIR.GOV
+  redirect: https://www.doi.gov/
+BANKNET.GOV
+  redirect: https://www.banknet.gov/entrance/default.html
+BROADBAND.GOV
+  redirect: https://www.fcc.gov/general/national-broadband-plan
