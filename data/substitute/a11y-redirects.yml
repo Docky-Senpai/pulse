@@ -3,4 +3,4 @@ EXPORT.GOV
 SELECTUSA.GOV
   redirect: https://www.selectusa.gov/welcome
 REALESTATESALES.GOV
-   redirect: https://realestatesales.gov/gsaauctions/gsaauctions/
+  redirect: https://realestatesales.gov/gsaauctions/gsaauctions/
